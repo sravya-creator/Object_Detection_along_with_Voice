@@ -1,4 +1,4 @@
-# Object_Detection_along_with_Voice
+Object_Detection_along_with_Voice
 This code requires three files to be downloaded first and put them in a folder along with the code
   1.coco.names.txt(Added in this repository)
   2.yolov3.cfg(Added in this repository)
